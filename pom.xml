@@ -36,6 +36,14 @@
 			<version>${junit.jupiter.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>br.edu.cesarschool.next.oo</groupId>
+			<artifactId>persistencia-objetos</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/libs/PersistenciaObjetos.jar</systemPath>
+		</dependency>
+
 	</dependencies>
 
 	<build>

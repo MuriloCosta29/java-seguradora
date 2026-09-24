@@ -34,3 +34,7 @@ target/
 
 # macOS
 .DS_Store
+
+# Excecao: PersistenciaObjetos.jar precisa ser versionado, nao esta disponivel
+# em nenhum repositorio Maven (biblioteca propria do curso).
+!libs/PersistenciaObjetos.jar
