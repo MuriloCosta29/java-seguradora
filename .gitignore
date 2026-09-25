@@ -36,3 +36,6 @@ target/
 .DS_Store
 
 !libs/PersistenciaObjetos.jar
+
+learning.txt
+notes.txt
